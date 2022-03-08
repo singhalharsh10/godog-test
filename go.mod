@@ -1,4 +1,4 @@
-module godog
+module godog-test
 
 go 1.17
 
